@@ -3,6 +3,8 @@ Easily transform your images into written notes.
 
 https://github.com/ObservedObserver/photes-lite/assets/22167673/1c7a1fb0-5c00-4960-9f80-8defe34329db
 
+This app is initial built by [lab2.dev](https://lab2.dev), the AI App Builder for creating streamlit app.
+
 ## Overview
 
 This project provides a Streamlit app that converts images into written notes. Currently, the app can only be run locally, as it writes directly to the file system.
