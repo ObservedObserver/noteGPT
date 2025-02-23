@@ -1,4 +1,4 @@
-# Image-to-Note
+# Note GPT
 Easily transform your images into written notes.
 
 https://github.com/ObservedObserver/photes-lite/assets/22167673/1c7a1fb0-5c00-4960-9f80-8defe34329db
@@ -28,5 +28,5 @@ streamlit run main.py --server.enableXsrfProtection false
 ```
 
 ## What's Coming
-A more production-level Image-to-Note SaaS [photes.io](https://photes.io) will be launched soon.
+For a more production-level tool, check Pixno [Pixno (photes.io)](https://photes.io)
 
