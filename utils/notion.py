@@ -46,7 +46,7 @@ def create_notion_page(token, database_id, content):
         ]
     }
 
-    response = requests.post(url, headers=headers, data=json.dumps(data))
+    response = requests.post(url, headers=headers, data=json.dumps(data), timeout=30)
 
     if response.status_code == 200:
         print("Page created successfully!")
